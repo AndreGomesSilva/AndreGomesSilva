@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++ and Golang**
 
-- 💬 Ask me about **Beckend, Embedded code and Game**
+- 💬 Ask me about **Backend, Embedded code and Game**
 
 - 📫 How to reach me **silva_andregomes@outlook.com**
 
