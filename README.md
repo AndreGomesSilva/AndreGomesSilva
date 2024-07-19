@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andregomessilva&label=Profile%20views&color=0e75b6&style=flat" alt="andregomessilva" /> </p>
 
-- 🔭 I’m currently working on [Cub3D](https://github.com/AndreGomesSilva/Cub3D)
+- 🔭 I’m currently working on [42SP_CPP](https://github.com/AndreGomesSilva/42SP_CPP)
 
 - 🌱 I’m currently learning **C++ and Golang**
 
