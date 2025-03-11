@@ -9,7 +9,7 @@
 
 - 🎓 **Software Engineer in formation** at [42 São Paulo](https://www.42sp.org.br/)  
 - 🔭 Currently working on [Web server](https://github.com/thaisnishimoto/42sp_Webserv) academic project.  
-- 🌱 Exploring **C++, C#**  
+- 🌱 Exploring **C++, Java**  
 - 💡 Interested in **high-performance systems, backend development, devops and game mechanics**  
 - 📫 Reach me at **silva_andregomes@outlook.com**  
 
